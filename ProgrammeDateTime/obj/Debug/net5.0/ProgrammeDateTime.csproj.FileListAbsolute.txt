@@ -1,0 +1,16 @@
+C:\Users\AbdoulayePangnonKOUL\source\repos\Jonathan\ProgrammeDateTime\ProgrammeDateTime\bin\Debug\net5.0\ProgrammeDateTime.exe
+C:\Users\AbdoulayePangnonKOUL\source\repos\Jonathan\ProgrammeDateTime\ProgrammeDateTime\bin\Debug\net5.0\ProgrammeDateTime.deps.json
+C:\Users\AbdoulayePangnonKOUL\source\repos\Jonathan\ProgrammeDateTime\ProgrammeDateTime\bin\Debug\net5.0\ProgrammeDateTime.runtimeconfig.json
+C:\Users\AbdoulayePangnonKOUL\source\repos\Jonathan\ProgrammeDateTime\ProgrammeDateTime\bin\Debug\net5.0\ProgrammeDateTime.runtimeconfig.dev.json
+C:\Users\AbdoulayePangnonKOUL\source\repos\Jonathan\ProgrammeDateTime\ProgrammeDateTime\bin\Debug\net5.0\ProgrammeDateTime.dll
+C:\Users\AbdoulayePangnonKOUL\source\repos\Jonathan\ProgrammeDateTime\ProgrammeDateTime\bin\Debug\net5.0\ProgrammeDateTime.pdb
+C:\Users\AbdoulayePangnonKOUL\source\repos\Jonathan\ProgrammeDateTime\ProgrammeDateTime\obj\Debug\net5.0\ProgrammeDateTime.csproj.AssemblyReference.cache
+C:\Users\AbdoulayePangnonKOUL\source\repos\Jonathan\ProgrammeDateTime\ProgrammeDateTime\obj\Debug\net5.0\ProgrammeDateTime.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AbdoulayePangnonKOUL\source\repos\Jonathan\ProgrammeDateTime\ProgrammeDateTime\obj\Debug\net5.0\ProgrammeDateTime.AssemblyInfoInputs.cache
+C:\Users\AbdoulayePangnonKOUL\source\repos\Jonathan\ProgrammeDateTime\ProgrammeDateTime\obj\Debug\net5.0\ProgrammeDateTime.AssemblyInfo.cs
+C:\Users\AbdoulayePangnonKOUL\source\repos\Jonathan\ProgrammeDateTime\ProgrammeDateTime\obj\Debug\net5.0\ProgrammeDateTime.csproj.CoreCompileInputs.cache
+C:\Users\AbdoulayePangnonKOUL\source\repos\Jonathan\ProgrammeDateTime\ProgrammeDateTime\obj\Debug\net5.0\ProgrammeDateTime.dll
+C:\Users\AbdoulayePangnonKOUL\source\repos\Jonathan\ProgrammeDateTime\ProgrammeDateTime\obj\Debug\net5.0\refint\ProgrammeDateTime.dll
+C:\Users\AbdoulayePangnonKOUL\source\repos\Jonathan\ProgrammeDateTime\ProgrammeDateTime\obj\Debug\net5.0\ProgrammeDateTime.pdb
+C:\Users\AbdoulayePangnonKOUL\source\repos\Jonathan\ProgrammeDateTime\ProgrammeDateTime\obj\Debug\net5.0\ProgrammeDateTime.genruntimeconfig.cache
+C:\Users\AbdoulayePangnonKOUL\source\repos\Jonathan\ProgrammeDateTime\ProgrammeDateTime\obj\Debug\net5.0\ref\ProgrammeDateTime.dll
